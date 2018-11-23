@@ -1,2 +1,4 @@
-day1
 print('hello world')
+
+print('eeee')
+
