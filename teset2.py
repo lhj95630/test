@@ -1,6 +1,6 @@
-day1
-print('hello world')
+for i in range(1,10):
+    if i <= 5:
+        print('{}<=5'.format(i))
+    else:
+        print('{}>=5'.format(i))
 
-
-day2
-print('this is a test1')
